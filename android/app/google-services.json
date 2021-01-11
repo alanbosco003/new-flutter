@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "237006959516",
+    "firebase_url": "https://my-loving-diary.firebaseio.com",
+    "project_id": "my-loving-diary",
+    "storage_bucket": "my-loving-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237006959516:android:13d4f47418172857308e59",
+        "android_client_info": {
+          "package_name": "my_loving_diary.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237006959516-iabee6udkiprjierp54j4huac782o91i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8QmJsotpzEjNIgOXgTkI2so9HqfaoC-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237006959516-iabee6udkiprjierp54j4huac782o91i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
